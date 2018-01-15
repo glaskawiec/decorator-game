@@ -1,0 +1,23 @@
+{
+  "name": "decoratorGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaskawiec/decoratorGame.git"
+  },
+  "author": "glaskawiec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaskawiec/decoratorGame/issues"
+  },
+  "homepage": "https://github.com/glaskawiec/decoratorGame#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
